@@ -1,0 +1,13 @@
+D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\bin\Debug\netcoreapp3.1\Kullanici_adi_sifre.exe
+D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\bin\Debug\netcoreapp3.1\Kullanici_adi_sifre.deps.json
+D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\bin\Debug\netcoreapp3.1\Kullanici_adi_sifre.runtimeconfig.json
+D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\bin\Debug\netcoreapp3.1\Kullanici_adi_sifre.runtimeconfig.dev.json
+D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\bin\Debug\netcoreapp3.1\Kullanici_adi_sifre.dll
+D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\bin\Debug\netcoreapp3.1\Kullanici_adi_sifre.pdb
+D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.csprojAssemblyReference.cache
+D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.AssemblyInfoInputs.cache
+D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.AssemblyInfo.cs
+D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.csproj.CoreCompileInputs.cache
+D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.dll
+D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.pdb
+D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.genruntimeconfig.cache
