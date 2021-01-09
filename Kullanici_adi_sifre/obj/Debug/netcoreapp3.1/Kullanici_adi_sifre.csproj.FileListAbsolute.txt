@@ -11,3 +11,16 @@ D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\obj\Debug\net
 D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.dll
 D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.pdb
 D:\c# githuba atılacaklar\Kullanici_adi_sifre\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.genruntimeconfig.cache
+D:\github_paylaşım\sifre_kullanici_adi_kontrol-\Kullanici_adi_sifre\bin\Debug\netcoreapp3.1\Kullanici_adi_sifre.exe
+D:\github_paylaşım\sifre_kullanici_adi_kontrol-\Kullanici_adi_sifre\bin\Debug\netcoreapp3.1\Kullanici_adi_sifre.deps.json
+D:\github_paylaşım\sifre_kullanici_adi_kontrol-\Kullanici_adi_sifre\bin\Debug\netcoreapp3.1\Kullanici_adi_sifre.runtimeconfig.json
+D:\github_paylaşım\sifre_kullanici_adi_kontrol-\Kullanici_adi_sifre\bin\Debug\netcoreapp3.1\Kullanici_adi_sifre.runtimeconfig.dev.json
+D:\github_paylaşım\sifre_kullanici_adi_kontrol-\Kullanici_adi_sifre\bin\Debug\netcoreapp3.1\Kullanici_adi_sifre.dll
+D:\github_paylaşım\sifre_kullanici_adi_kontrol-\Kullanici_adi_sifre\bin\Debug\netcoreapp3.1\Kullanici_adi_sifre.pdb
+D:\github_paylaşım\sifre_kullanici_adi_kontrol-\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.csprojAssemblyReference.cache
+D:\github_paylaşım\sifre_kullanici_adi_kontrol-\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.AssemblyInfoInputs.cache
+D:\github_paylaşım\sifre_kullanici_adi_kontrol-\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.AssemblyInfo.cs
+D:\github_paylaşım\sifre_kullanici_adi_kontrol-\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.csproj.CoreCompileInputs.cache
+D:\github_paylaşım\sifre_kullanici_adi_kontrol-\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.dll
+D:\github_paylaşım\sifre_kullanici_adi_kontrol-\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.pdb
+D:\github_paylaşım\sifre_kullanici_adi_kontrol-\Kullanici_adi_sifre\obj\Debug\netcoreapp3.1\Kullanici_adi_sifre.genruntimeconfig.cache
